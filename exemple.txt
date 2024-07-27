@@ -1,0 +1,125 @@
+Introduction générale 
+
+Ce rapport vise à fournir une vue d'ensemble de la formation en alternance que je suis en train de faire au sein de la société Capgemini Tunisie et l’école supérieur d’ingénierie et des technologies Esprit afin d’obtenir mon diplôme d’ingénieur en système embarqué et de développer ma carrière professionnelle.
+Il offrira une présentation de l'entreprise à l’échelle mondial et national en spécifions les services qu’elle offre d’une façon générale. Il expliquera aussi le poste que j’occupe au sein de Capgemini Tunisie, mes tâches quotidiennes, mes responsabilités ainsi que les outils employés. Il indiquera aussi la formation que reçois au sein de l’entreprise, ainsi que les compétences que je développe et mentionne les objectifs que je souhaite atteindre. 
+Ce rapport comporte 3 chapitres. Le premier chapitre est une introduction de la société suivie par le deuxième chapitre qui s’intéresse à mon intégration au sein de Capgemini Tunisie. Finalement, le troisième chapitre est dédié à détailler mes aspirations futures au niveau professionnel. 
+
+
+
+1	Présentation de l’entreprise 
+
+1.1	Capgemini Engineering dans le monde 
+
+1.1.1	 Introduction
+
+Capgemini Engineering est un leader mondial en services d'ingénierie et de R&D, combinant une expertise technologique de pointe avec une profonde compréhension des enjeux de nos clients. Cette société transforme et gère les entreprises tout en créant un avenir meilleur, durable et inclusif. 
+Depuis plus de 50 ans, Capgemini Engineering se distingue en tant que partenaire de ses clients, et non simplement comme fournisseur de services. Elle a une responsabilité qu’elle prend très au sérieux, animés par la conviction que la technologie doit libérer les énergies humaines.
+
+1.1.2	Expertise et Présence Globale
+Elle comporte un collectif diversifié de plus de 340 000 experts stratégiques et technologiques dans plus de 50 pays. Nos compétences couvrent le cloud, les données, l'intelligence artificielle (IA), la connectivité, les logiciels, l'ingénierie numérique et les plateformes
+
+
+1.1.3	 Engagement et Valeur Ajoutée
+L’engagement de Capgemini consiste à libérer la véritable valeur de la technologie pour les entreprises, la planète et la société. Elle se concentre sur l'amélioration de l'expérience numérique des consommateurs, l'accélération de l'industrie intelligente et la transformation des entreprises, aidant ses clients à aller au-delà de la simple faisabilité technique pour définir la meilleure voie vers un avenir amélioré.
+1.1.4	 Services offerts 
+•	Ingénierie et R&D:
+o	Développement de produits et de systèmes
+o	Prototype et validation
+o	Test et assurance qualité
+•	Transformation Numérique:
+o	Conseil en transformation digitale
+o	Intégration de solutions cloud
+o	Implémentation de l'IA et de la machine Learning
+•	Ingénierie Système:
+o	Conception et optimisation de systèmes complexes
+o	Intégration de technologies IoT
+o	Solutions de connectivité et de communication
+•	Consulting et Stratègie:
+o	Conseil en innovation
+o	Stratégies de développement durable
+o	Gestion de projet et conduite du changement
+
+1.2	 Capgemini Engineering Tunisie 
+
+1.2.1	 Introduction
+
+Capgemini Engineering Tunisie est une filiale de Capgemini Engineering, apportant son expertise globale au marché local. La société aide ses clients en Tunisie et dans la région à transformer leurs entreprises grâce à des solutions technologiques innovantes et durables.
+Capgemini aspire à devenir le partenaire technologique privilégié des entreprises désireuses d'innover et de croître dans un environnement de plus en plus numérique. Forts de son expertise mondiale et de notre ancrage local, elle accompagne ses clients pour relever les défis technologiques et saisir les opportunités futures.
+
+
+
+1.2.2	 Services Offerts
+Capgemini Engineering Tunisie offre des services divisés principalement sur 4 parties : 
+-	Automotive
+-	Aerospace
+-	Digital
+-	Telecom
+La société propose une gamme complète de services adaptés aux besoins variés des entreprises parmi lesquelles :
+-	Développement embarqué 
+-	Test 
+-	Développement logiciel 
+-	Développement mobile 
+2	Poste occupé 
+
+2.1	Positionnement au sein de l’entreprise 
+
+2.1.1	 Introduction
+
+Mon poste dans Capgemini est un Technicien en système embarqué plus précisément appelé Error Manager. Ce poste appartient au service automobile qu’offre l’entreprise. 
+Le Testeur utilise les outils de test différents afin de détecter les erreurs et les inexactitudes dans les fonctionnalités de la voiture. Ce dernier doit par la suite ouvrir un ticket à l’aide un outil mis à sa disposition par Capgemini pour résoudre cette erreur ou il décrit la faute en détail et attache les preuves nécessaires. 
+Ce ticket doit être envoyer à un développeur nommé aussi Problem Solver pour qu’il trouve la solution nécessaire. Mais le testeur ne peut pas envoyer cette requête tout seul. Il faut un intermédiaire entre ce testeur et le développeur : c’est le rôle de l’Error Manager.  
+2.1.2	 Description
+
+  	L’Error manger appelé aussi Special Coordinator reçoit le ticket envoyé par le testeur et assure l’envoi au développeur si elle respecte les critères prédéfinis. Il joue le rôle d’un arbitre ou bien un pont de connexion puisque le testeur et le développeur n’ont pas un contact direct. Ce dernier lit la requête reçue et juge si elle va être envoyé ou si elle va être rejetée.
+	Ce dernier doit assurer la coordination des différents types de tickets reçues : il garantie que chaque requête est dans le département convenable pendant toutes les étapes (analyse, vérification…). Ce poste facilite le procès de résolution de problème et offre une organisation nécessaire pour ne pas avoir des conflits et des problèmes entre toutes les parties impliquées. L’error manager et le développeur utilisent le même outil et le même serveur que le testeur assurant ainsi un bon déroulement en toute sécurité.
+2.2	Equipe de Travail 
+
+	Je fais partie d'une équipe composée de 47 membres avec mes camarades de classe Cherif Youssef et Khalfaoui Mohamed Amine. Cette équipe est divisée en sous-équipes, celle à laquelle j'appartiens contient 17 membres venant d'Allemagne et de Roumanie, et moi de la Tunisie. Mon Manager est Slimani Lamia.
+2.3	Tâches d’un Error manager 
+
+•	Analyser les nouveaux tickets et assurer qu’ils respectent les normes prédéfinis.
+•	Chercher en utilisant les outils nécessaires le « Problem Solver » qui convient à l’erreur décrit dans la requête.
+•	 Rejeter les tickets qui ne respectent pas les règles nécessaires.
+•	Assurer la traçabilité du ticket.
+•	Mettre à jour les documents/outils utilisés. 
+•	Contacter et organiser des réunions avec les parties concernées dans les cas de blocage ou pour assurer le bon déroulement des procédures.
+•	Participer aux réunions d’équipe quotidienne pour répartir les tâches, discuter les obstacles rencontrés, donner un Feedback…
+•	Participer aux réunions avec les collègues qui ont les mêmes taches pour s'aider mutuellement dans la coordination des tickets, et être toujours conscients s'il y a des changements ou des mises à jour dont nous devons être attentifs.
+
+2.4	Outils utilisés
+
+	J’utilise Outlook et Teams pour communiquer avec mon équipe, envoyer des e-mails, participer aux réunions, partager et recevoir des documents …
+J’utilise aussi Excel pour accéder aux bases de données et pour organiser les taches à effectuer. Microsoft Word et Powerpoint sont aussi utilisé pour rédiger un document ou bien préparer une présentation. 
+Capgemini nous offre aussi l’accès à d’autres environnement de travail développés spécifiquement pour notre travail comme l’outil Jira, KPM et TicketWizard.  
+	 
+2.5	Formation au sein de Capgemini
+
+Avant de commencer à travailler, Capgemini s'est assuré que je reçoive une formation très approfondie pour pouvoir utiliser tous les outils dont j'aurai besoin. J'ai été assigné à des collègues qui m'ont soutenu et ont veillé à ce que je connaisse toutes les clés et les aspects du travail que je ferai. L'entreprise propose également des cours de formation en ligne pour ceux qui en ont besoin et nous donne accès aux documents dont nous pourrions avoir besoin.
+2.6	Responsabilités
+
+•	Faire attention pour ne pas assigner incorrectement les tickets.
+•	Respecter l’ensemble des normes et des règles.
+•	Être respectueux envers mon équipe et mes collègues. 
+•	Organiser et répartir les taches entre les membres de l’équipe pour avoir un bon équilibre.
+•	Ne pas partager les données confidentielles avec les autres.
+•	Prendre soin de l'équipement et s'assurer qu'il est sécurisé. 
+•	Soutenir les nouveaux membres et mes collègues quand ils en ont besoin.
+•	Respecter le l’horaire de travail et être sérieux.
+
+
+
+3	Objectifs et Aspirations
+
+3.1	Objectifs à court terme 
+
+Pour mes objectifs à court terme, j'aspire à être meilleur dans mon travail et à relever plus de défis et de tâches. Cela augmentera mes chances d'avoir un rôle plus important au sein de mon équipe. Pour y parvenir, je dois m'assurer de devenir plus organisé et d'apprendre à prioriser les tâches et à gérer mon temps efficacement.
+
+3.2	Objectifs à long terme 
+
+En ce qui concerne mes objectifs à long terme, j'aspire à assumer un rôle de leader dans un projet en tant qu'ingénieur en systèmes embarqués. Je souhaite prendre en charge de grands projets qui stimulent mon côté créatif avec les meilleurs ingénieurs chez Capgemini. La formation en alternance que je fais actuellement avec Esprit est l'élément clé pour réaliser cela pour deux raisons principales.
+
+ Tout d'abord, les cours dispensés par Esprit visent à me fournir toutes les connaissances techniques dont j'aurais besoin pour devenir un bon ingénieur. Les cours varient des langages de programmation à la compréhension des systèmes d'exploitation, la manipulation des cartes de développement embarquées... Ils nous donnent également l'opportunité de faire des différents projets, ce qui nous permet de pratiquer ce que nous apprenons et d'améliorer nos compétences. Esprit veille également à ce que nous soyons tous fluents en français et en anglais, en nous proposant des cours de langue riches visant à améliorer nos compétences en communication, ce qui nous aidera dans notre carrière professionnelle.
+
+Le deuxième élément important qui m'aidera à atteindre mon objectif est le travail que je fais actuellement chez Capgemini Engineering. Chaque jour, je gagne plus d'expérience en accomplissant mes tâches quotidiennes et en apprenant de mes erreurs. Communiquer avec d'autres collègues et apprendre à résoudre des conflits et à résoudre des problèmes est une autre compétence que l'on ne peut acquérir qu'en travaillant. Travailler me permet également de développer mes compétences interpersonnelles comme le travail en équipe, le leadership, l'écoute active... Capgemini nous offre aussi la possibilité de suivre différents cours si nous voulons améliorer nos compétences techniques afin de continuer à apprendre en permanence et de nous ouvrir à de nouveaux projets à venir.
+ Pour résumer, mon plan est de me concentrer sur ce parcours d'alternance et de tirer parti de tout ce que je peux apprendre de mon travail chez Capgemini et de mes cours chez Esprit, ainsi que de suivre toute autre formation qui améliorerait mon diplôme.
+
